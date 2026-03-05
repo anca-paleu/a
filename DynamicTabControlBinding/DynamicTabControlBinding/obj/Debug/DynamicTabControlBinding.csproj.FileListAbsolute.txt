@@ -1,0 +1,46 @@
+C:\Z-Work\Lucru\Facultate\2018-2019\MVP\DynamicTabControlBinding\DynamicTabControlBinding\bin\Debug\DynamicTabControlBinding.exe.config
+C:\Z-Work\Lucru\Facultate\2018-2019\MVP\DynamicTabControlBinding\DynamicTabControlBinding\bin\Debug\DynamicTabControlBinding.exe
+C:\Z-Work\Lucru\Facultate\2018-2019\MVP\DynamicTabControlBinding\DynamicTabControlBinding\bin\Debug\DynamicTabControlBinding.pdb
+C:\Z-Work\Lucru\Facultate\2018-2019\MVP\DynamicTabControlBinding\DynamicTabControlBinding\obj\Debug\MainWindow.g.cs
+C:\Z-Work\Lucru\Facultate\2018-2019\MVP\DynamicTabControlBinding\DynamicTabControlBinding\obj\Debug\App.g.cs
+C:\Z-Work\Lucru\Facultate\2018-2019\MVP\DynamicTabControlBinding\DynamicTabControlBinding\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Z-Work\Lucru\Facultate\2018-2019\MVP\DynamicTabControlBinding\DynamicTabControlBinding\obj\Debug\DynamicTabControlBinding_MarkupCompile.cache
+C:\Z-Work\Lucru\Facultate\2018-2019\MVP\DynamicTabControlBinding\DynamicTabControlBinding\obj\Debug\DynamicTabControlBinding_MarkupCompile.lref
+C:\Z-Work\Lucru\Facultate\2018-2019\MVP\DynamicTabControlBinding\DynamicTabControlBinding\obj\Debug\MainWindow.baml
+C:\Z-Work\Lucru\Facultate\2018-2019\MVP\DynamicTabControlBinding\DynamicTabControlBinding\obj\Debug\DynamicTabControlBinding.g.resources
+C:\Z-Work\Lucru\Facultate\2018-2019\MVP\DynamicTabControlBinding\DynamicTabControlBinding\obj\Debug\DynamicTabControlBinding.Properties.Resources.resources
+C:\Z-Work\Lucru\Facultate\2018-2019\MVP\DynamicTabControlBinding\DynamicTabControlBinding\obj\Debug\DynamicTabControlBinding.csproj.GenerateResource.Cache
+C:\Z-Work\Lucru\Facultate\2018-2019\MVP\DynamicTabControlBinding\DynamicTabControlBinding\obj\Debug\DynamicTabControlBinding.csproj.CoreCompileInputs.cache
+C:\Z-Work\Lucru\Facultate\2018-2019\MVP\DynamicTabControlBinding\DynamicTabControlBinding\obj\Debug\DynamicTabControlBinding.exe
+C:\Z-Work\Lucru\Facultate\2018-2019\MVP\DynamicTabControlBinding\DynamicTabControlBinding\obj\Debug\DynamicTabControlBinding.pdb
+C:\Z-Work\Lucru\Facultate\2018-2019\MVP\Exemple pt Tema1\DynamicTabControlBinding\DynamicTabControlBinding\bin\Debug\DynamicTabControlBinding.exe.config
+C:\Z-Work\Lucru\Facultate\2018-2019\MVP\Exemple pt Tema1\DynamicTabControlBinding\DynamicTabControlBinding\bin\Debug\DynamicTabControlBinding.exe
+C:\Z-Work\Lucru\Facultate\2018-2019\MVP\Exemple pt Tema1\DynamicTabControlBinding\DynamicTabControlBinding\bin\Debug\DynamicTabControlBinding.pdb
+C:\Z-Work\Lucru\Facultate\2018-2019\MVP\Exemple pt Tema1\DynamicTabControlBinding\DynamicTabControlBinding\obj\Debug\MainWindow.g.cs
+C:\Z-Work\Lucru\Facultate\2018-2019\MVP\Exemple pt Tema1\DynamicTabControlBinding\DynamicTabControlBinding\obj\Debug\App.g.cs
+C:\Z-Work\Lucru\Facultate\2018-2019\MVP\Exemple pt Tema1\DynamicTabControlBinding\DynamicTabControlBinding\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Z-Work\Lucru\Facultate\2018-2019\MVP\Exemple pt Tema1\DynamicTabControlBinding\DynamicTabControlBinding\obj\Debug\DynamicTabControlBinding_MarkupCompile.cache
+C:\Z-Work\Lucru\Facultate\2018-2019\MVP\Exemple pt Tema1\DynamicTabControlBinding\DynamicTabControlBinding\obj\Debug\DynamicTabControlBinding_MarkupCompile.lref
+C:\Z-Work\Lucru\Facultate\2018-2019\MVP\Exemple pt Tema1\DynamicTabControlBinding\DynamicTabControlBinding\obj\Debug\MainWindow.baml
+C:\Z-Work\Lucru\Facultate\2018-2019\MVP\Exemple pt Tema1\DynamicTabControlBinding\DynamicTabControlBinding\obj\Debug\DynamicTabControlBinding.g.resources
+C:\Z-Work\Lucru\Facultate\2018-2019\MVP\Exemple pt Tema1\DynamicTabControlBinding\DynamicTabControlBinding\obj\Debug\DynamicTabControlBinding.Properties.Resources.resources
+C:\Z-Work\Lucru\Facultate\2018-2019\MVP\Exemple pt Tema1\DynamicTabControlBinding\DynamicTabControlBinding\obj\Debug\DynamicTabControlBinding.csproj.GenerateResource.Cache
+C:\Z-Work\Lucru\Facultate\2018-2019\MVP\Exemple pt Tema1\DynamicTabControlBinding\DynamicTabControlBinding\obj\Debug\DynamicTabControlBinding.csproj.CoreCompileInputs.cache
+C:\Z-Work\Lucru\Facultate\2018-2019\MVP\Exemple pt Tema1\DynamicTabControlBinding\DynamicTabControlBinding\obj\Debug\DynamicTabControlBinding.exe
+C:\Z-Work\Lucru\Facultate\2018-2019\MVP\Exemple pt Tema1\DynamicTabControlBinding\DynamicTabControlBinding\obj\Debug\DynamicTabControlBinding.pdb
+D:\_Lucru\Facultate\AniStudiu\2025-2026\Sem 2\MVP_MAP\Lab3\DynamicTabControlBinding\DynamicTabControlBinding\bin\Debug\DynamicTabControlBinding.exe.config
+D:\_Lucru\Facultate\AniStudiu\2025-2026\Sem 2\MVP_MAP\Lab3\DynamicTabControlBinding\DynamicTabControlBinding\bin\Debug\DynamicTabControlBinding.exe
+D:\_Lucru\Facultate\AniStudiu\2025-2026\Sem 2\MVP_MAP\Lab3\DynamicTabControlBinding\DynamicTabControlBinding\bin\Debug\DynamicTabControlBinding.pdb
+D:\_Lucru\Facultate\AniStudiu\2025-2026\Sem 2\MVP_MAP\Lab3\DynamicTabControlBinding\DynamicTabControlBinding\obj\Debug\DynamicTabControlBinding.csproj.AssemblyReference.cache
+D:\_Lucru\Facultate\AniStudiu\2025-2026\Sem 2\MVP_MAP\Lab3\DynamicTabControlBinding\DynamicTabControlBinding\obj\Debug\MainWindow.g.cs
+D:\_Lucru\Facultate\AniStudiu\2025-2026\Sem 2\MVP_MAP\Lab3\DynamicTabControlBinding\DynamicTabControlBinding\obj\Debug\App.g.cs
+D:\_Lucru\Facultate\AniStudiu\2025-2026\Sem 2\MVP_MAP\Lab3\DynamicTabControlBinding\DynamicTabControlBinding\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\_Lucru\Facultate\AniStudiu\2025-2026\Sem 2\MVP_MAP\Lab3\DynamicTabControlBinding\DynamicTabControlBinding\obj\Debug\DynamicTabControlBinding_MarkupCompile.cache
+D:\_Lucru\Facultate\AniStudiu\2025-2026\Sem 2\MVP_MAP\Lab3\DynamicTabControlBinding\DynamicTabControlBinding\obj\Debug\DynamicTabControlBinding_MarkupCompile.lref
+D:\_Lucru\Facultate\AniStudiu\2025-2026\Sem 2\MVP_MAP\Lab3\DynamicTabControlBinding\DynamicTabControlBinding\obj\Debug\MainWindow.baml
+D:\_Lucru\Facultate\AniStudiu\2025-2026\Sem 2\MVP_MAP\Lab3\DynamicTabControlBinding\DynamicTabControlBinding\obj\Debug\DynamicTabControlBinding.g.resources
+D:\_Lucru\Facultate\AniStudiu\2025-2026\Sem 2\MVP_MAP\Lab3\DynamicTabControlBinding\DynamicTabControlBinding\obj\Debug\DynamicTabControlBinding.Properties.Resources.resources
+D:\_Lucru\Facultate\AniStudiu\2025-2026\Sem 2\MVP_MAP\Lab3\DynamicTabControlBinding\DynamicTabControlBinding\obj\Debug\DynamicTabControlBinding.csproj.GenerateResource.cache
+D:\_Lucru\Facultate\AniStudiu\2025-2026\Sem 2\MVP_MAP\Lab3\DynamicTabControlBinding\DynamicTabControlBinding\obj\Debug\DynamicTabControlBinding.csproj.CoreCompileInputs.cache
+D:\_Lucru\Facultate\AniStudiu\2025-2026\Sem 2\MVP_MAP\Lab3\DynamicTabControlBinding\DynamicTabControlBinding\obj\Debug\DynamicTabControlBinding.exe
+D:\_Lucru\Facultate\AniStudiu\2025-2026\Sem 2\MVP_MAP\Lab3\DynamicTabControlBinding\DynamicTabControlBinding\obj\Debug\DynamicTabControlBinding.pdb

@@ -1,0 +1,125 @@
+D:\_Lucru\Facultate\AniStudiu\2024-2025\Remake MAP+MVP\DataContextDemo\DataContextDemo\bin\Debug\net8.0-windows\DataContextDemo.exe
+D:\_Lucru\Facultate\AniStudiu\2024-2025\Remake MAP+MVP\DataContextDemo\DataContextDemo\bin\Debug\net8.0-windows\DataContextDemo.deps.json
+D:\_Lucru\Facultate\AniStudiu\2024-2025\Remake MAP+MVP\DataContextDemo\DataContextDemo\bin\Debug\net8.0-windows\DataContextDemo.runtimeconfig.json
+D:\_Lucru\Facultate\AniStudiu\2024-2025\Remake MAP+MVP\DataContextDemo\DataContextDemo\bin\Debug\net8.0-windows\DataContextDemo.dll
+D:\_Lucru\Facultate\AniStudiu\2024-2025\Remake MAP+MVP\DataContextDemo\DataContextDemo\bin\Debug\net8.0-windows\DataContextDemo.pdb
+D:\_Lucru\Facultate\AniStudiu\2024-2025\Remake MAP+MVP\DataContextDemo\DataContextDemo\obj\Debug\net8.0-windows\LeftWindow.g.cs
+D:\_Lucru\Facultate\AniStudiu\2024-2025\Remake MAP+MVP\DataContextDemo\DataContextDemo\obj\Debug\net8.0-windows\MainWindow.g.cs
+D:\_Lucru\Facultate\AniStudiu\2024-2025\Remake MAP+MVP\DataContextDemo\DataContextDemo\obj\Debug\net8.0-windows\RightWindow.g.cs
+D:\_Lucru\Facultate\AniStudiu\2024-2025\Remake MAP+MVP\DataContextDemo\DataContextDemo\obj\Debug\net8.0-windows\App.g.cs
+D:\_Lucru\Facultate\AniStudiu\2024-2025\Remake MAP+MVP\DataContextDemo\DataContextDemo\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+D:\_Lucru\Facultate\AniStudiu\2024-2025\Remake MAP+MVP\DataContextDemo\DataContextDemo\obj\Debug\net8.0-windows\DataContextDemo_MarkupCompile.cache
+D:\_Lucru\Facultate\AniStudiu\2024-2025\Remake MAP+MVP\DataContextDemo\DataContextDemo\obj\Debug\net8.0-windows\DataContextDemo_MarkupCompile.lref
+D:\_Lucru\Facultate\AniStudiu\2024-2025\Remake MAP+MVP\DataContextDemo\DataContextDemo\obj\Debug\net8.0-windows\LeftWindow.baml
+D:\_Lucru\Facultate\AniStudiu\2024-2025\Remake MAP+MVP\DataContextDemo\DataContextDemo\obj\Debug\net8.0-windows\MainWindow.baml
+D:\_Lucru\Facultate\AniStudiu\2024-2025\Remake MAP+MVP\DataContextDemo\DataContextDemo\obj\Debug\net8.0-windows\RightWindow.baml
+D:\_Lucru\Facultate\AniStudiu\2024-2025\Remake MAP+MVP\DataContextDemo\DataContextDemo\obj\Debug\net8.0-windows\DataContextDemo.g.resources
+D:\_Lucru\Facultate\AniStudiu\2024-2025\Remake MAP+MVP\DataContextDemo\DataContextDemo\obj\Debug\net8.0-windows\DataContextDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\_Lucru\Facultate\AniStudiu\2024-2025\Remake MAP+MVP\DataContextDemo\DataContextDemo\obj\Debug\net8.0-windows\DataContextDemo.AssemblyInfoInputs.cache
+D:\_Lucru\Facultate\AniStudiu\2024-2025\Remake MAP+MVP\DataContextDemo\DataContextDemo\obj\Debug\net8.0-windows\DataContextDemo.AssemblyInfo.cs
+D:\_Lucru\Facultate\AniStudiu\2024-2025\Remake MAP+MVP\DataContextDemo\DataContextDemo\obj\Debug\net8.0-windows\DataContextDemo.csproj.CoreCompileInputs.cache
+D:\_Lucru\Facultate\AniStudiu\2024-2025\Remake MAP+MVP\DataContextDemo\DataContextDemo\obj\Debug\net8.0-windows\DataContextDemo.dll
+D:\_Lucru\Facultate\AniStudiu\2024-2025\Remake MAP+MVP\DataContextDemo\DataContextDemo\obj\Debug\net8.0-windows\refint\DataContextDemo.dll
+D:\_Lucru\Facultate\AniStudiu\2024-2025\Remake MAP+MVP\DataContextDemo\DataContextDemo\obj\Debug\net8.0-windows\DataContextDemo.pdb
+D:\_Lucru\Facultate\AniStudiu\2024-2025\Remake MAP+MVP\DataContextDemo\DataContextDemo\obj\Debug\net8.0-windows\DataContextDemo.genruntimeconfig.cache
+D:\_Lucru\Facultate\AniStudiu\2024-2025\Remake MAP+MVP\DataContextDemo\DataContextDemo\obj\Debug\net8.0-windows\ref\DataContextDemo.dll
+D:\_Lucru\Facultate\AniStudiu\2024-2025\_Sem II\Remake MAP+MVP\Lab3\DataContextDemo\DataContextDemo\bin\Debug\net8.0-windows\DataContextDemo.exe
+D:\_Lucru\Facultate\AniStudiu\2024-2025\_Sem II\Remake MAP+MVP\Lab3\DataContextDemo\DataContextDemo\bin\Debug\net8.0-windows\DataContextDemo.deps.json
+D:\_Lucru\Facultate\AniStudiu\2024-2025\_Sem II\Remake MAP+MVP\Lab3\DataContextDemo\DataContextDemo\bin\Debug\net8.0-windows\DataContextDemo.runtimeconfig.json
+D:\_Lucru\Facultate\AniStudiu\2024-2025\_Sem II\Remake MAP+MVP\Lab3\DataContextDemo\DataContextDemo\bin\Debug\net8.0-windows\DataContextDemo.dll
+D:\_Lucru\Facultate\AniStudiu\2024-2025\_Sem II\Remake MAP+MVP\Lab3\DataContextDemo\DataContextDemo\bin\Debug\net8.0-windows\DataContextDemo.pdb
+D:\_Lucru\Facultate\AniStudiu\2024-2025\_Sem II\Remake MAP+MVP\Lab3\DataContextDemo\DataContextDemo\obj\Debug\net8.0-windows\LeftWindow.g.cs
+D:\_Lucru\Facultate\AniStudiu\2024-2025\_Sem II\Remake MAP+MVP\Lab3\DataContextDemo\DataContextDemo\obj\Debug\net8.0-windows\MainWindow.g.cs
+D:\_Lucru\Facultate\AniStudiu\2024-2025\_Sem II\Remake MAP+MVP\Lab3\DataContextDemo\DataContextDemo\obj\Debug\net8.0-windows\RightWindow.g.cs
+D:\_Lucru\Facultate\AniStudiu\2024-2025\_Sem II\Remake MAP+MVP\Lab3\DataContextDemo\DataContextDemo\obj\Debug\net8.0-windows\App.g.cs
+D:\_Lucru\Facultate\AniStudiu\2024-2025\_Sem II\Remake MAP+MVP\Lab3\DataContextDemo\DataContextDemo\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+D:\_Lucru\Facultate\AniStudiu\2024-2025\_Sem II\Remake MAP+MVP\Lab3\DataContextDemo\DataContextDemo\obj\Debug\net8.0-windows\DataContextDemo_MarkupCompile.cache
+D:\_Lucru\Facultate\AniStudiu\2024-2025\_Sem II\Remake MAP+MVP\Lab3\DataContextDemo\DataContextDemo\obj\Debug\net8.0-windows\DataContextDemo_MarkupCompile.lref
+D:\_Lucru\Facultate\AniStudiu\2024-2025\_Sem II\Remake MAP+MVP\Lab3\DataContextDemo\DataContextDemo\obj\Debug\net8.0-windows\LeftWindow.baml
+D:\_Lucru\Facultate\AniStudiu\2024-2025\_Sem II\Remake MAP+MVP\Lab3\DataContextDemo\DataContextDemo\obj\Debug\net8.0-windows\MainWindow.baml
+D:\_Lucru\Facultate\AniStudiu\2024-2025\_Sem II\Remake MAP+MVP\Lab3\DataContextDemo\DataContextDemo\obj\Debug\net8.0-windows\RightWindow.baml
+D:\_Lucru\Facultate\AniStudiu\2024-2025\_Sem II\Remake MAP+MVP\Lab3\DataContextDemo\DataContextDemo\obj\Debug\net8.0-windows\DataContextDemo.g.resources
+D:\_Lucru\Facultate\AniStudiu\2024-2025\_Sem II\Remake MAP+MVP\Lab3\DataContextDemo\DataContextDemo\obj\Debug\net8.0-windows\DataContextDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\_Lucru\Facultate\AniStudiu\2024-2025\_Sem II\Remake MAP+MVP\Lab3\DataContextDemo\DataContextDemo\obj\Debug\net8.0-windows\DataContextDemo.AssemblyInfoInputs.cache
+D:\_Lucru\Facultate\AniStudiu\2024-2025\_Sem II\Remake MAP+MVP\Lab3\DataContextDemo\DataContextDemo\obj\Debug\net8.0-windows\DataContextDemo.AssemblyInfo.cs
+D:\_Lucru\Facultate\AniStudiu\2024-2025\_Sem II\Remake MAP+MVP\Lab3\DataContextDemo\DataContextDemo\obj\Debug\net8.0-windows\DataContextDemo.csproj.CoreCompileInputs.cache
+D:\_Lucru\Facultate\AniStudiu\2024-2025\_Sem II\Remake MAP+MVP\Lab3\DataContextDemo\DataContextDemo\obj\Debug\net8.0-windows\DataContextDemo.dll
+D:\_Lucru\Facultate\AniStudiu\2024-2025\_Sem II\Remake MAP+MVP\Lab3\DataContextDemo\DataContextDemo\obj\Debug\net8.0-windows\refint\DataContextDemo.dll
+D:\_Lucru\Facultate\AniStudiu\2024-2025\_Sem II\Remake MAP+MVP\Lab3\DataContextDemo\DataContextDemo\obj\Debug\net8.0-windows\DataContextDemo.pdb
+D:\_Lucru\Facultate\AniStudiu\2024-2025\_Sem II\Remake MAP+MVP\Lab3\DataContextDemo\DataContextDemo\obj\Debug\net8.0-windows\DataContextDemo.genruntimeconfig.cache
+D:\_Lucru\Facultate\AniStudiu\2024-2025\_Sem II\Remake MAP+MVP\Lab3\DataContextDemo\DataContextDemo\obj\Debug\net8.0-windows\ref\DataContextDemo.dll
+D:\_Lucru\Facultate\AniStudiu\2024-2025\_Sem II\MAP+MVP _ new\Lab3\DataContextDemo\DataContextDemo\bin\Debug\net8.0-windows\DataContextDemo.exe
+D:\_Lucru\Facultate\AniStudiu\2024-2025\_Sem II\MAP+MVP _ new\Lab3\DataContextDemo\DataContextDemo\bin\Debug\net8.0-windows\DataContextDemo.deps.json
+D:\_Lucru\Facultate\AniStudiu\2024-2025\_Sem II\MAP+MVP _ new\Lab3\DataContextDemo\DataContextDemo\bin\Debug\net8.0-windows\DataContextDemo.runtimeconfig.json
+D:\_Lucru\Facultate\AniStudiu\2024-2025\_Sem II\MAP+MVP _ new\Lab3\DataContextDemo\DataContextDemo\bin\Debug\net8.0-windows\DataContextDemo.dll
+D:\_Lucru\Facultate\AniStudiu\2024-2025\_Sem II\MAP+MVP _ new\Lab3\DataContextDemo\DataContextDemo\bin\Debug\net8.0-windows\DataContextDemo.pdb
+D:\_Lucru\Facultate\AniStudiu\2024-2025\_Sem II\MAP+MVP _ new\Lab3\DataContextDemo\DataContextDemo\obj\Debug\net8.0-windows\LeftWindow.g.cs
+D:\_Lucru\Facultate\AniStudiu\2024-2025\_Sem II\MAP+MVP _ new\Lab3\DataContextDemo\DataContextDemo\obj\Debug\net8.0-windows\MainWindow.g.cs
+D:\_Lucru\Facultate\AniStudiu\2024-2025\_Sem II\MAP+MVP _ new\Lab3\DataContextDemo\DataContextDemo\obj\Debug\net8.0-windows\RightWindow.g.cs
+D:\_Lucru\Facultate\AniStudiu\2024-2025\_Sem II\MAP+MVP _ new\Lab3\DataContextDemo\DataContextDemo\obj\Debug\net8.0-windows\App.g.cs
+D:\_Lucru\Facultate\AniStudiu\2024-2025\_Sem II\MAP+MVP _ new\Lab3\DataContextDemo\DataContextDemo\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+D:\_Lucru\Facultate\AniStudiu\2024-2025\_Sem II\MAP+MVP _ new\Lab3\DataContextDemo\DataContextDemo\obj\Debug\net8.0-windows\DataContextDemo_MarkupCompile.cache
+D:\_Lucru\Facultate\AniStudiu\2024-2025\_Sem II\MAP+MVP _ new\Lab3\DataContextDemo\DataContextDemo\obj\Debug\net8.0-windows\DataContextDemo_MarkupCompile.lref
+D:\_Lucru\Facultate\AniStudiu\2024-2025\_Sem II\MAP+MVP _ new\Lab3\DataContextDemo\DataContextDemo\obj\Debug\net8.0-windows\LeftWindow.baml
+D:\_Lucru\Facultate\AniStudiu\2024-2025\_Sem II\MAP+MVP _ new\Lab3\DataContextDemo\DataContextDemo\obj\Debug\net8.0-windows\MainWindow.baml
+D:\_Lucru\Facultate\AniStudiu\2024-2025\_Sem II\MAP+MVP _ new\Lab3\DataContextDemo\DataContextDemo\obj\Debug\net8.0-windows\RightWindow.baml
+D:\_Lucru\Facultate\AniStudiu\2024-2025\_Sem II\MAP+MVP _ new\Lab3\DataContextDemo\DataContextDemo\obj\Debug\net8.0-windows\DataContextDemo.g.resources
+D:\_Lucru\Facultate\AniStudiu\2024-2025\_Sem II\MAP+MVP _ new\Lab3\DataContextDemo\DataContextDemo\obj\Debug\net8.0-windows\DataContextDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\_Lucru\Facultate\AniStudiu\2024-2025\_Sem II\MAP+MVP _ new\Lab3\DataContextDemo\DataContextDemo\obj\Debug\net8.0-windows\DataContextDemo.AssemblyInfoInputs.cache
+D:\_Lucru\Facultate\AniStudiu\2024-2025\_Sem II\MAP+MVP _ new\Lab3\DataContextDemo\DataContextDemo\obj\Debug\net8.0-windows\DataContextDemo.AssemblyInfo.cs
+D:\_Lucru\Facultate\AniStudiu\2024-2025\_Sem II\MAP+MVP _ new\Lab3\DataContextDemo\DataContextDemo\obj\Debug\net8.0-windows\DataContextDemo.csproj.CoreCompileInputs.cache
+D:\_Lucru\Facultate\AniStudiu\2024-2025\_Sem II\MAP+MVP _ new\Lab3\DataContextDemo\DataContextDemo\obj\Debug\net8.0-windows\DataContextDemo.dll
+D:\_Lucru\Facultate\AniStudiu\2024-2025\_Sem II\MAP+MVP _ new\Lab3\DataContextDemo\DataContextDemo\obj\Debug\net8.0-windows\refint\DataContextDemo.dll
+D:\_Lucru\Facultate\AniStudiu\2024-2025\_Sem II\MAP+MVP _ new\Lab3\DataContextDemo\DataContextDemo\obj\Debug\net8.0-windows\DataContextDemo.pdb
+D:\_Lucru\Facultate\AniStudiu\2024-2025\_Sem II\MAP+MVP _ new\Lab3\DataContextDemo\DataContextDemo\obj\Debug\net8.0-windows\DataContextDemo.genruntimeconfig.cache
+D:\_Lucru\Facultate\AniStudiu\2024-2025\_Sem II\MAP+MVP _ new\Lab3\DataContextDemo\DataContextDemo\obj\Debug\net8.0-windows\ref\DataContextDemo.dll
+D:\_Lucru\Facultate\AniStudiu\2025-2026\Sem 2\MVP_MAP\Lab3\DataContextDemo\DataContextDemo\bin\Debug\net8.0-windows\DataContextDemo.exe
+D:\_Lucru\Facultate\AniStudiu\2025-2026\Sem 2\MVP_MAP\Lab3\DataContextDemo\DataContextDemo\bin\Debug\net8.0-windows\DataContextDemo.deps.json
+D:\_Lucru\Facultate\AniStudiu\2025-2026\Sem 2\MVP_MAP\Lab3\DataContextDemo\DataContextDemo\bin\Debug\net8.0-windows\DataContextDemo.runtimeconfig.json
+D:\_Lucru\Facultate\AniStudiu\2025-2026\Sem 2\MVP_MAP\Lab3\DataContextDemo\DataContextDemo\bin\Debug\net8.0-windows\DataContextDemo.dll
+D:\_Lucru\Facultate\AniStudiu\2025-2026\Sem 2\MVP_MAP\Lab3\DataContextDemo\DataContextDemo\bin\Debug\net8.0-windows\DataContextDemo.pdb
+D:\_Lucru\Facultate\AniStudiu\2025-2026\Sem 2\MVP_MAP\Lab3\DataContextDemo\DataContextDemo\obj\Debug\net8.0-windows\LeftWindow.g.cs
+D:\_Lucru\Facultate\AniStudiu\2025-2026\Sem 2\MVP_MAP\Lab3\DataContextDemo\DataContextDemo\obj\Debug\net8.0-windows\MainWindow.g.cs
+D:\_Lucru\Facultate\AniStudiu\2025-2026\Sem 2\MVP_MAP\Lab3\DataContextDemo\DataContextDemo\obj\Debug\net8.0-windows\RightWindow.g.cs
+D:\_Lucru\Facultate\AniStudiu\2025-2026\Sem 2\MVP_MAP\Lab3\DataContextDemo\DataContextDemo\obj\Debug\net8.0-windows\App.g.cs
+D:\_Lucru\Facultate\AniStudiu\2025-2026\Sem 2\MVP_MAP\Lab3\DataContextDemo\DataContextDemo\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+D:\_Lucru\Facultate\AniStudiu\2025-2026\Sem 2\MVP_MAP\Lab3\DataContextDemo\DataContextDemo\obj\Debug\net8.0-windows\DataContextDemo_MarkupCompile.cache
+D:\_Lucru\Facultate\AniStudiu\2025-2026\Sem 2\MVP_MAP\Lab3\DataContextDemo\DataContextDemo\obj\Debug\net8.0-windows\DataContextDemo_MarkupCompile.lref
+D:\_Lucru\Facultate\AniStudiu\2025-2026\Sem 2\MVP_MAP\Lab3\DataContextDemo\DataContextDemo\obj\Debug\net8.0-windows\LeftWindow.baml
+D:\_Lucru\Facultate\AniStudiu\2025-2026\Sem 2\MVP_MAP\Lab3\DataContextDemo\DataContextDemo\obj\Debug\net8.0-windows\MainWindow.baml
+D:\_Lucru\Facultate\AniStudiu\2025-2026\Sem 2\MVP_MAP\Lab3\DataContextDemo\DataContextDemo\obj\Debug\net8.0-windows\RightWindow.baml
+D:\_Lucru\Facultate\AniStudiu\2025-2026\Sem 2\MVP_MAP\Lab3\DataContextDemo\DataContextDemo\obj\Debug\net8.0-windows\DataContextDemo.g.resources
+D:\_Lucru\Facultate\AniStudiu\2025-2026\Sem 2\MVP_MAP\Lab3\DataContextDemo\DataContextDemo\obj\Debug\net8.0-windows\DataContextDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\_Lucru\Facultate\AniStudiu\2025-2026\Sem 2\MVP_MAP\Lab3\DataContextDemo\DataContextDemo\obj\Debug\net8.0-windows\DataContextDemo.AssemblyInfoInputs.cache
+D:\_Lucru\Facultate\AniStudiu\2025-2026\Sem 2\MVP_MAP\Lab3\DataContextDemo\DataContextDemo\obj\Debug\net8.0-windows\DataContextDemo.AssemblyInfo.cs
+D:\_Lucru\Facultate\AniStudiu\2025-2026\Sem 2\MVP_MAP\Lab3\DataContextDemo\DataContextDemo\obj\Debug\net8.0-windows\DataContextDemo.csproj.CoreCompileInputs.cache
+D:\_Lucru\Facultate\AniStudiu\2025-2026\Sem 2\MVP_MAP\Lab3\DataContextDemo\DataContextDemo\obj\Debug\net8.0-windows\DataContextDemo.dll
+D:\_Lucru\Facultate\AniStudiu\2025-2026\Sem 2\MVP_MAP\Lab3\DataContextDemo\DataContextDemo\obj\Debug\net8.0-windows\refint\DataContextDemo.dll
+D:\_Lucru\Facultate\AniStudiu\2025-2026\Sem 2\MVP_MAP\Lab3\DataContextDemo\DataContextDemo\obj\Debug\net8.0-windows\DataContextDemo.pdb
+D:\_Lucru\Facultate\AniStudiu\2025-2026\Sem 2\MVP_MAP\Lab3\DataContextDemo\DataContextDemo\obj\Debug\net8.0-windows\DataContextDemo.genruntimeconfig.cache
+D:\_Lucru\Facultate\AniStudiu\2025-2026\Sem 2\MVP_MAP\Lab3\DataContextDemo\DataContextDemo\obj\Debug\net8.0-windows\ref\DataContextDemo.dll
+C:\Users\anca\Downloads\DataContextDemo\DataContextDemo\DataContextDemo\bin\Debug\net8.0-windows\DataContextDemo.exe
+C:\Users\anca\Downloads\DataContextDemo\DataContextDemo\DataContextDemo\bin\Debug\net8.0-windows\DataContextDemo.deps.json
+C:\Users\anca\Downloads\DataContextDemo\DataContextDemo\DataContextDemo\bin\Debug\net8.0-windows\DataContextDemo.runtimeconfig.json
+C:\Users\anca\Downloads\DataContextDemo\DataContextDemo\DataContextDemo\bin\Debug\net8.0-windows\DataContextDemo.dll
+C:\Users\anca\Downloads\DataContextDemo\DataContextDemo\DataContextDemo\bin\Debug\net8.0-windows\DataContextDemo.pdb
+C:\Users\anca\Downloads\DataContextDemo\DataContextDemo\DataContextDemo\obj\Debug\net8.0-windows\LeftWindow.g.cs
+C:\Users\anca\Downloads\DataContextDemo\DataContextDemo\DataContextDemo\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\anca\Downloads\DataContextDemo\DataContextDemo\DataContextDemo\obj\Debug\net8.0-windows\RightWindow.g.cs
+C:\Users\anca\Downloads\DataContextDemo\DataContextDemo\DataContextDemo\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\anca\Downloads\DataContextDemo\DataContextDemo\DataContextDemo\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\anca\Downloads\DataContextDemo\DataContextDemo\DataContextDemo\obj\Debug\net8.0-windows\DataContextDemo_MarkupCompile.cache
+C:\Users\anca\Downloads\DataContextDemo\DataContextDemo\DataContextDemo\obj\Debug\net8.0-windows\DataContextDemo_MarkupCompile.lref
+C:\Users\anca\Downloads\DataContextDemo\DataContextDemo\DataContextDemo\obj\Debug\net8.0-windows\LeftWindow.baml
+C:\Users\anca\Downloads\DataContextDemo\DataContextDemo\DataContextDemo\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\anca\Downloads\DataContextDemo\DataContextDemo\DataContextDemo\obj\Debug\net8.0-windows\RightWindow.baml
+C:\Users\anca\Downloads\DataContextDemo\DataContextDemo\DataContextDemo\obj\Debug\net8.0-windows\DataContextDemo.g.resources
+C:\Users\anca\Downloads\DataContextDemo\DataContextDemo\DataContextDemo\obj\Debug\net8.0-windows\DataContextDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anca\Downloads\DataContextDemo\DataContextDemo\DataContextDemo\obj\Debug\net8.0-windows\DataContextDemo.AssemblyInfoInputs.cache
+C:\Users\anca\Downloads\DataContextDemo\DataContextDemo\DataContextDemo\obj\Debug\net8.0-windows\DataContextDemo.AssemblyInfo.cs
+C:\Users\anca\Downloads\DataContextDemo\DataContextDemo\DataContextDemo\obj\Debug\net8.0-windows\DataContextDemo.csproj.CoreCompileInputs.cache
+C:\Users\anca\Downloads\DataContextDemo\DataContextDemo\DataContextDemo\obj\Debug\net8.0-windows\DataContextDemo.dll
+C:\Users\anca\Downloads\DataContextDemo\DataContextDemo\DataContextDemo\obj\Debug\net8.0-windows\refint\DataContextDemo.dll
+C:\Users\anca\Downloads\DataContextDemo\DataContextDemo\DataContextDemo\obj\Debug\net8.0-windows\DataContextDemo.pdb
+C:\Users\anca\Downloads\DataContextDemo\DataContextDemo\DataContextDemo\obj\Debug\net8.0-windows\DataContextDemo.genruntimeconfig.cache
+C:\Users\anca\Downloads\DataContextDemo\DataContextDemo\DataContextDemo\obj\Debug\net8.0-windows\ref\DataContextDemo.dll
