@@ -3,16 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\anca\\Desktop\\Notepad\\Notepad\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{69ECB16F-165E-4959-B1CB-A0A89DBF5183}|Notepad\\Notepad.csproj|c:\\users\\anca\\desktop\\notepad\\notepad\\notepad\\view\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{69ECB16F-165E-4959-B1CB-A0A89DBF5183}|Notepad\\Notepad.csproj|solutionrelative:notepad\\view\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{69ECB16F-165E-4959-B1CB-A0A89DBF5183}|Notepad\\Notepad.csproj|c:\\users\\anca\\desktop\\notepad\\notepad\\notepad\\view\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{69ECB16F-165E-4959-B1CB-A0A89DBF5183}|Notepad\\Notepad.csproj|solutionrelative:notepad\\view\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{69ECB16F-165E-4959-B1CB-A0A89DBF5183}|Notepad\\Notepad.csproj|c:\\users\\anca\\desktop\\notepad\\notepad\\notepad\\viewmodel\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{69ECB16F-165E-4959-B1CB-A0A89DBF5183}|Notepad\\Notepad.csproj|solutionrelative:notepad\\viewmodel\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69ECB16F-165E-4959-B1CB-A0A89DBF5183}|Notepad\\Notepad.csproj|c:\\users\\anca\\desktop\\notepad\\notepad\\notepad\\viewmodel\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69ECB16F-165E-4959-B1CB-A0A89DBF5183}|Notepad\\Notepad.csproj|solutionrelative:notepad\\viewmodel\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{69ECB16F-165E-4959-B1CB-A0A89DBF5183}|Notepad\\Notepad.csproj|c:\\users\\anca\\desktop\\notepad\\notepad\\notepad\\model\\documentmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -23,8 +19,12 @@
       "RelativeMoniker": "D:0:0:{69ECB16F-165E-4959-B1CB-A0A89DBF5183}|Notepad\\Notepad.csproj|solutionrelative:notepad\\viewmodel\\observableobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{69ECB16F-165E-4959-B1CB-A0A89DBF5183}|Notepad\\Notepad.csproj|c:\\users\\anca\\desktop\\notepad\\notepad\\notepad\\viewmodel\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{69ECB16F-165E-4959-B1CB-A0A89DBF5183}|Notepad\\Notepad.csproj|solutionrelative:notepad\\viewmodel\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{69ECB16F-165E-4959-B1CB-A0A89DBF5183}|Notepad\\Notepad.csproj|c:\\users\\anca\\desktop\\notepad\\notepad\\notepad\\view\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{69ECB16F-165E-4959-B1CB-A0A89DBF5183}|Notepad\\Notepad.csproj|solutionrelative:notepad\\view\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69ECB16F-165E-4959-B1CB-A0A89DBF5183}|Notepad\\Notepad.csproj|c:\\users\\anca\\desktop\\notepad\\notepad\\notepad\\view\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69ECB16F-165E-4959-B1CB-A0A89DBF5183}|Notepad\\Notepad.csproj|solutionrelative:notepad\\view\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{69ECB16F-165E-4959-B1CB-A0A89DBF5183}|Notepad\\Notepad.csproj|c:\\users\\anca\\desktop\\notepad\\notepad\\notepad\\model\\directoryitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -50,7 +50,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -64,14 +64,14 @@
               "RelativeDocumentMoniker": "Notepad\\Model\\DirectoryItem.cs",
               "ToolTip": "C:\\Users\\anca\\Desktop\\Notepad\\Notepad\\Notepad\\Model\\DirectoryItem.cs",
               "RelativeToolTip": "Notepad\\Model\\DirectoryItem.cs",
-              "ViewState": "AgIAAD4AAAAAAAAAAAAswEgAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAD8AAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-06T18:07:38.847Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "ObservableObject.cs",
               "DocumentMoniker": "C:\\Users\\anca\\Desktop\\Notepad\\Notepad\\Notepad\\ViewModel\\ObservableObject.cs",
               "RelativeDocumentMoniker": "Notepad\\ViewModel\\ObservableObject.cs",
@@ -84,7 +84,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
               "Title": "RelayCommand.cs",
               "DocumentMoniker": "C:\\Users\\anca\\Desktop\\Notepad\\Notepad\\Notepad\\ViewModel\\RelayCommand.cs",
               "RelativeDocumentMoniker": "Notepad\\ViewModel\\RelayCommand.cs",
@@ -97,26 +97,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "DocumentModel.cs",
               "DocumentMoniker": "C:\\Users\\anca\\Desktop\\Notepad\\Notepad\\Notepad\\Model\\DocumentModel.cs",
               "RelativeDocumentMoniker": "Notepad\\Model\\DocumentModel.cs",
               "ToolTip": "C:\\Users\\anca\\Desktop\\Notepad\\Notepad\\Notepad\\Model\\DocumentModel.cs",
               "RelativeToolTip": "Notepad\\Model\\DocumentModel.cs",
-              "ViewState": "AgIAACMAAAAAAAAAAAAgwDgAAAAoAAAAAAAAAA==",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAAAC8AAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-05T19:35:39.695Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "MainViewModel.cs",
               "DocumentMoniker": "C:\\Users\\anca\\Desktop\\Notepad\\Notepad\\Notepad\\ViewModel\\MainViewModel.cs",
               "RelativeDocumentMoniker": "Notepad\\ViewModel\\MainViewModel.cs",
               "ToolTip": "C:\\Users\\anca\\Desktop\\Notepad\\Notepad\\Notepad\\ViewModel\\MainViewModel.cs",
               "RelativeToolTip": "Notepad\\ViewModel\\MainViewModel.cs",
-              "ViewState": "AgIAAMkAAAAAAAAAAAAuwNMAAABdAAAAAAAAAA==",
+              "ViewState": "AgIAAF4BAAAAAAAAAAAuwG4BAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-05T19:18:28.174Z",
               "EditorCaption": ""
@@ -159,7 +159,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "C:\\Users\\anca\\Desktop\\Notepad\\Notepad\\Notepad\\View\\MainWindow.xaml",
               "RelativeDocumentMoniker": "Notepad\\View\\MainWindow.xaml",
@@ -171,7 +171,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "C:\\Users\\anca\\Desktop\\Notepad\\Notepad\\Notepad\\View\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "Notepad\\View\\MainWindow.xaml.cs",
